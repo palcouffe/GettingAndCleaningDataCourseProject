@@ -1,4 +1,4 @@
-"activitylabel" "subjectid" "measurement" "mean"
+"activitylabel" "subjectid" "featurelabel" "mean"
 "LAYING" 1 "frequence-bodyacceleration-mean-x" -0.9390990524
 "LAYING" 1 "frequence-bodyacceleration-mean-y" -0.86706520518
 "LAYING" 1 "frequence-bodyacceleration-mean-z" -0.8826668762
